@@ -203,9 +203,15 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=sa
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=8j3f7HD37h.PaGES.dEV#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
 vless://33f7e344-fd50-4b65-a035-d339e58055f3@37.59.217.227:18785?security=reality&encryption=none&pbk=EXkoU7Bd75su8Eev14mgg_s2lRu9HIifqNhho48aJRo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=fonts.googleapis.com&sid=090cdf82fdab#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
-📶تعدادی سرور V2ray مختص شدید ترین اختلالات (بعضا اینترنت ملی)
-
-⚪️همه اپراتور ها تست شد وصل✅برای هر منطقه و اینترنتی نتیجه‌ی متفاوتی دارند پس باید همرو تست کنید .
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?encryption=none&flow=&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B98
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@picassooo.info:22955?encryption=none&flow=&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B89
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@rohin.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&flow=&fp=chrome&host=forreest.info&path=%2Fhsdgsws&security=tls&sni=forreest.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA2
+vmess://0925b355-2bcd-4eae-9720-d2709e4f7e36@47.251.91.241:42899?encryption=&type=#%F0%9F%87%BA%F0%9F%87%B84
+vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?encryption=none&flow=&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&security=reality&sid=775eb6408888248e&sni=www.ebay.com&type=grpc#%F0%9F%87%B8%F0%9F%87%A67
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#%F0%9F%87%A9%F0%9F%87%AA6
+vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?encryption=none&flow=&host=639031180460930556.altima-amsjq.info&path=%2Foqxdqtws&security=tls&sni=639031180460930556.altima-amsjq.info&type=ws#%F0%9F%87%B3%F0%9F%87%B13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#%F0%9F%87%A9%F0%9F%87%AA5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#%F0%9F%87%AB%F0%9F%87%B71
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?path=%2F&security=none&encryption=none&host=servepross.ajorpare.ir&type=ws#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&insecure=1&host=nexovh09.sepiol.name.NG&fp=firefox&type=ws&allowInsecure=1&sni=nexovh09.sepiol.name.NG#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
 vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?path=%2Fapi%2Fstatus%2F%3Fed%3D2560&security=none&encryption=none&host=cLoUd.zIrAkOmAmLe.CoM&type=httpupgrade#Telegram%20%3A%20%40BugFreeNet%20All%E2%9A%AA%EF%B8%8F
